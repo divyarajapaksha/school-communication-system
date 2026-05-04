@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97805965740",
+    "project_id": "smart-connect-6523d",
+    "storage_bucket": "smart-connect-6523d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97805965740:android:f05800f3ecd45c1cd2c209",
+        "android_client_info": {
+          "package_name": "com.example.smart_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQpFCfCuae3AP4d2L8jBwWgXglD0ccWuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
